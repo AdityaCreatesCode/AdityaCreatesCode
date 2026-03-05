@@ -1,7 +1,8 @@
-## Hi there 👋
+💫  Hi 👋 I'm Aditya Singh 
 
+ responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my projects, skills, and journey as an aspiring web developer. 🚀
 <!--
-**AdityaCreatesCode/AdityaCreatesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Adit**AdityaCreatesCode/AdityaCreatesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.yaCreatesCode/AdityaCreatesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
